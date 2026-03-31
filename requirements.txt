@@ -1,0 +1,11 @@
+# UI
+streamlit>=1.31.0
+
+# Azure identity & AI Foundry
+azure-identity>=1.15.0
+azure-ai-projects>=2.0.0
+
+# HTTP / TLS handling (enterprise environments)
+httpx>=0.26.0
+pip-system-certs>=4.0
+``

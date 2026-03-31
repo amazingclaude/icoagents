@@ -1,0 +1,44 @@
+[
+  {
+    "id": "doc-001",
+    "title": "Contoso Analytics Platform Overview",
+    "content": "The Contoso Analytics Platform is a cloud-based business intelligence solution built on Microsoft Azure. It enables organizations to ingest, transform, and visualize data using Azure Data Factory, Azure Synapse Analytics, and Power BI. The platform supports enterprise-scale analytics with built-in security, governance, and cost controls.",
+    "source": "https://contoso.com/docs/platform-overview"
+  },
+  {
+    "id": "doc-002",
+    "title": "Supported Data Sources",
+    "content": "Contoso Analytics Platform supports structured and semi-structured data sources including SQL Server, Azure SQL Database, Azure Blob Storage, Azure Data Lake Storage Gen2, and REST APIs. Data ingestion can be scheduled or event-driven depending on business requirements.",
+    "source": "https://contoso.com/docs/data-sources"
+  },
+  {
+    "id": "doc-003",
+    "title": "Security and Access Control",
+    "content": "Security is enforced using Microsoft Entra ID (Azure Active Directory). Role-based access control (RBAC) is applied at platform, workspace, and dataset levels. Data is encrypted at rest and in transit, and audit logs are retained for 365 days to support compliance requirements.",
+    "source": "https://contoso.com/docs/security"
+  },
+  {
+    "id": "doc-004",
+    "title": "Pricing Model",
+    "content": "The pricing model for Contoso Analytics Platform is consumption-based. Customers are charged for data ingestion, query processing, and reporting usage. Cost management dashboards are provided to monitor spend and optimize resource usage.",
+    "source": "https://contoso.com/docs/pricing"
+  },
+  {
+    "id": "doc-005",
+    "title": "Common Use Cases",
+    "content": "Common use cases include executive dashboards, operational reporting, financial forecasting, and customer behavior analytics. The platform is commonly adopted by public sector organizations, retail companies, and financial services institutions.",
+    "source": "https://contoso.com/docs/use-cases"
+  },
+  {
+    "id": "doc-006",
+    "title": "Data Refresh and Latency",
+    "content": "Data refresh frequency can range from near real-time (5 minutes) to daily batch processing. Typical end-to-end data latency for streaming pipelines is under 10 minutes, depending on data volume and transformation complexity.",
+    "source": "https://contoso.com/docs/data-refresh"
+  },
+  {
+    "id": "doc-007",
+    "title": "Service Support and SLAs",
+    "content": "Contoso provides 99.9% service availability backed by a formal SLA. Support is available 24x7 for critical incidents, with standard business-hours support for non-critical issues. Customers can raise tickets through the Contoso Support Portal.",
+    "source": "https://contoso.com/docs/support"
+  }
+]
