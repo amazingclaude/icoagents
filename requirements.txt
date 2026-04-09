@@ -8,4 +8,3 @@ azure-ai-projects>=2.0.0
 # HTTP / TLS handling (enterprise environments)
 httpx>=0.26.0
 pip-system-certs>=4.0
-``
