@@ -1,0 +1,25 @@
+[
+  {
+    "id": "d4291534-0701-46a6-b958-ff912a854ede",
+    "title": "New chat 09 Apr 20:27",
+    "created_at": "2026-04-09T19:27:31.194394+00:00",
+    "updated_at": "2026-04-09T19:27:31.194394+00:00",
+    "messages": []
+  },
+  {
+    "id": "409f84f9-8b47-43b0-9274-7f133833a6cc",
+    "title": "What are the key considerations when scoping a new kerbside ",
+    "created_at": "2026-04-09T18:42:54.149698+00:00",
+    "updated_at": "2026-04-09T18:43:50.696526+00:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the key considerations when scoping a new kerbside charging rollout?"
+      },
+      {
+        "role": "assistant",
+        "content": "When scoping a new kerbside charging rollout for Connected Kerb, several key considerations must be addressed to ensure the success, efficiency, and viability of the rollout. These include:\n\n1. **Site Selection & Demand Assessment**\n   - Identifying high-demand areas based on current and forecasted EV usage.\n   - Proximity to residential dwellings, workplaces, and public amenities.\n   - Availability of suitable kerbside locations with adequate space and minimal disruption to pedestrians and traffic.\n   - Grid capacity and accessibility for connection at each proposed site.\n\n2. **Client and Contract Type Alignment**\n   - Determining the appropriate contract model (Legacy, LEVI, Lamp Column) based on client (e.g., local authority) funding sources, infrastructure preferences, and policy requirements.\n   - Understanding contract-specific CAPEX implications and delivery milestones.\n\n3. **Work Bank Sizing and Attrition Planning**\n   - Scoping a larger work bank than the target to account for typical attrition/drop-off at key milestones (e.g., up to 30% attrition post-consultation).\n   - Using attrition rates and milestone gates to manage risks of under-delivery and ensure targets are met  .\n\n4. **Stakeholder Engagement and Consultation**\n   - Early and regular engagement with local stakeholders (councils, residents, businesses) to build support and address potential objections.\n   - Conducting thorough consultations as per milestone plans to minimize rework and delays .\n\n5. **Technical Feasibility & Infrastructure Constraints**\n   - Assessing power supply capacity at each location, particularly for \u2018Connection\u2019 costs and timelines (different for traditional kerb charging and lamp column charging).\n   - Ensuring installation is compatible with street furniture, existing infrastructure, and local regulations.\n   - Evaluating site-specific technical challenges (e.g., digging restrictions, utilities clash, or access constraints).\n\n6. **Programme and Timeline Sequencing**\n   - Planning realistic delivery timelines considering statutory processes, procurement, weather, and resource constraints.\n   - Phasing work packages to align with funding cycles and maximize delivery throughput across regions.\n\n7. **Cost Management & Funding**\n   - Understanding upfront and phased CAPEX costs by contract type (Legacy, LEVI, Lamp Column), as costs occur at defined milestones even if delivery is staged .\n   - Ensuring budgets cover scope expansion due to attrition and buffer for unforeseen costs.\n\n8. **Regulatory, Planning, and Safety Compliance**\n   - Adhering to local authority planning rules, safety standards, and DNO grid connection requirements.\n   - Environmental assessments and permits as required.\n\n9. **Futureproofing and Scalability**\n   - Allowing for future expansion (more sockets per site/work package) as EV uptake grows.\n   - Installing infrastructure (e.g., passive ducting) that enables easy scaling or upgrading.\n\n10. **Data, Reporting, and Performance Tracking**\n    - Including robust reporting mechanisms to track delivery milestones, costs, and attrition rates across the rollout.\n    - Ensuring granular tracking at the site and socket level to facilitate compliance and funding reporting requirements.\n\nBy carefully considering these factors, Connected Kerb can scope projects that are robust against attrition, cost overruns, policy changes, and technical hurdles\u2014leading to smoother delivery and greater stakeholder satisfaction    ."
+      }
+    ]
+  }
+]
